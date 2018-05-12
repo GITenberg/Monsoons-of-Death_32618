@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32968'
     url: http://www.gutenberg.org/2009/agents/32968
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32618#Monsoons-of-Death
 gutenberg_issued: '2010-05-31'
 gutenberg_type: Text
 identifiers:
